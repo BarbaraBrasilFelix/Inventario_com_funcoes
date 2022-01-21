@@ -4,7 +4,7 @@
 
 > Repositório do Desafio de Git/Github da DIO. 
 > 
-> <img src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj" width="60" height="60">
+> <img src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj" width="40" height="40">
 
 > Código baseado no exercício do Nano Curso de Python da FIAP 
 
