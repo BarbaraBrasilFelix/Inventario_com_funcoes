@@ -6,4 +6,4 @@
 
 > Código baseado no exercício do Nano Curso de Python da FIAP 
 
-![DIO](C:\Users\barba\OneDrive\Documentos\dio.jpg)
+![DIO](https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj)
