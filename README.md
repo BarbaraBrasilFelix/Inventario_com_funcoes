@@ -2,4 +2,4 @@
 
 Funções criadas para incluir, exibir, pesquisar e excluir itens em um Inventário.
 
-Repositório do Desafio de Git/Github da DIO.
+> Repositório do Desafio de Git/Github da DIO.
