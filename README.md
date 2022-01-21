@@ -8,6 +8,6 @@
 
 > Código baseado no exercício do Nano Curso de Python da FIAP
 > 
-> <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png" width="60" height="40">
+> <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png" width="80" height="60">
 
 
