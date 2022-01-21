@@ -6,6 +6,8 @@
 > 
 > <img src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj" width="40" height="40">
 
-> Código baseado no exercício do Nano Curso de Python da FIAP 
+> Código baseado no exercício do Nano Curso de Python da FIAP
+> 
+> <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png" width="40" height="40">
 
 
