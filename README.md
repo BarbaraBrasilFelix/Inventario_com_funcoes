@@ -10,4 +10,4 @@
 > 
 > <img src="https://www.fiap.com.br/wp-content/themes/fiap2016/images/sharing/fiap.png" width="80" height="60">
 
-:computer::computer::computer:
+:computer:
